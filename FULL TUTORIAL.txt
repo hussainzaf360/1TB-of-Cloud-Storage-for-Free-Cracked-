@@ -1,0 +1,37 @@
+How to Download 1TB of Cloud Storage for Free on Windows
+
+Download on PC:
+
+https://ia802706.us.archive.org/14/items/tera-box-3.13.1-le-ti/TeraBox++_3.13.1_LeTi.ipa - TeraBox App
+That Gives 1TB of Cloud Storage.
+
+
+https://secure-appldnld.apple.com/itunes12/001-80053-20210422-E8A3B28C-A3B2-11EB-BE07-CE1B67
+FC6302/iTunes64Setup.exe - iTunes 64 bit Version for Windows 10/11 which is necessary for the
+TeraBox to Download.
+
+
+https://armconverter.com/sideloadly/SideloadlySetup64.exe - Sideloadly App That Allows You to
+Download IPA Files on to your iOS device and make it a usable app.
+
+
+Step 1: Download all three files and setup iTunes first. Try to login with an Apple ID
+
+Step 2: Once that is complete, set up Sideloadly. It will ask for Apple ID and passcode, but it is only for it
+to authorize the IPA for the functionality of TeraBox. (It might not yet and it’s okay)
+
+Step 3: Click on the icon in the left of the Sideloadly app that says IPA and find the .ipa file for TeraBox++.
+
+Step 4: Connect your iPhone to your PC using a USB Cable. Click the option for iPhone on the option for
+iDevice.
+
+Step 5: Now it will most likely ask for an Apple ID. Put one in.
+
+Step 6: Now it will download successfully. If it doesn’t work, tell me on my discord or snap.
+
+Step 7: Before clicking on the app, go to Settings < General < VPN and Device Management. You should
+see your email. Click it and click “Trust Developer” or something similar and follow the prompts your
+iPhone says to do.
+
+Step 8: Now you can open the app and have fun.
+
